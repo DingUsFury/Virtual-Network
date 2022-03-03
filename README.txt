@@ -1,3 +1,5 @@
+A virtual network created with the guidance from DU Cybersecurity course...
+
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
